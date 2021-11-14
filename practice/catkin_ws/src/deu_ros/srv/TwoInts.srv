@@ -1,0 +1,5 @@
+int32 a
+int32 b
+---
+int64 resultadd
+int64 result_mult
